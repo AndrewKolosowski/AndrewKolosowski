@@ -1,1 +1,1 @@
-Hey! I'm Andrew and I'm currently studying Computer Science at York University. I love problem solving and a challenge. Feel free to get in touch!
+Hey! I'm Andrew and I'm currently studying Computer Science at York University. I have a passion for problem solving and I'm open to new opportunities — Feel free to send me a message at andrewkoloso@gmail.com.
