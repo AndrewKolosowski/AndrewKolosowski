@@ -1,5 +1,5 @@
 ## About Me:
-Hey! I am Andrew, a 4th year Computer Science student at York University. I have a passion to problem solving, and I'm always open to new opportunities and challenges.
+Hey! I'm Andrew, a 4th year Computer Science student at York University. I have a passion to problem solving, and I'm always open to new opportunities and challenges.
 
 ## Contact:
 Email: andrewkoloso@gmail.com \
