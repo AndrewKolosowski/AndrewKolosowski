@@ -5,7 +5,6 @@ Hi! I’m Andrew, a 4th year Computer Science student at York University with a 
 Email: andrewkoloso@gmail.com \
 LinkedIn: www.linkedin.com/in/andrewkolosowski
 
-## Working On:
-- [Yoga Posing Coach](https://github.com/AndrewKolosowski/Yoga-Posing-Coach)
-- [React Redis Docker Demo](https://github.com/AndrewKolosowski/React-Node-Redis-Docker-Demo)
-- [Twitter Media Archiver](https://github.com/AndrewKolosowski/Twitter-Media-Archiver)
+## Most recently worked on:
+- [Automated GitHub Actions Integration Tests with a Python (FastAPI) backend and PostgreSQL database](https://github.com/AndrewKolosowski/ci-fastapi-postgres-integration-tests)
+
