@@ -6,6 +6,6 @@ Email: andrewkoloso@gmail.com \
 LinkedIn: www.linkedin.com/in/andrewkolosowski
 
 ## My Recent Work:
-- [GitHub Actions API Integration Test POC](https://github.com/AndrewKolosowski/ci-fastapi-postgres-integration-tests)
+- [GitHub Actions Integration Test POC](https://github.com/AndrewKolosowski/ci-fastapi-postgres-integration-tests)
 - [Valorant Instant Locking Helper](https://github.com/AndrewKolosowski/valorant-instalock-helper)
 
