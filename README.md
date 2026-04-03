@@ -7,9 +7,9 @@ LinkedIn: www.linkedin.com/in/andrewkolosowski
 
 ## Currently working on 
 - **Prep Tracker**
-  - [Frontend](https://github.com/AndrewKolosowski/prep-tracker-frontend)
-  - [Backend](https://github.com/AndrewKolosowski/prep-tracker-backend)
-  - [Infrastructure](https://github.com/AndrewKolosowski/prep-tracker-infra)
+  - Frontend: [https://github.com/AndrewKolosowski/prep-tracker-frontend](https://github.com/AndrewKolosowski/prep-tracker-frontend)
+  - Backend: [https://github.com/AndrewKolosowski/prep-tracker-backend](https://github.com/AndrewKolosowski/prep-tracker-backend)
+  - Infrastructure: [https://github.com/AndrewKolosowski/prep-tracker-backend](https://github.com/AndrewKolosowski/prep-tracker-infra)
 
 ## My Recent Work:
 - [GitHub Actions Integration Test POC](https://github.com/AndrewKolosowski/ci-fastapi-postgres-integration-tests)
