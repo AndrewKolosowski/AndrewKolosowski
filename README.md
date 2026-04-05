@@ -5,7 +5,7 @@ Hi! I’m Andrew, a 4th year Computer Science student at York University with a 
 Email: andrewkoloso@gmail.com \
 LinkedIn: www.linkedin.com/in/andrewkolosowski
 
-## Currently working on 
+## I am currently working on: 
 - **Prep Tracker**
   - Frontend: [https://github.com/AndrewKolosowski/prep-tracker-frontend](https://github.com/AndrewKolosowski/prep-tracker-frontend)
   - Backend: [https://github.com/AndrewKolosowski/prep-tracker-backend](https://github.com/AndrewKolosowski/prep-tracker-backend)
